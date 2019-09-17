@@ -25,6 +25,6 @@ After having watched a Youtube video on the topic by Primer in Summer 2019, I wa
 
 In Summer/Autumn 2019, we began revisiting complex numbers and Eulers form in Further Maths at school. This lead me to rediscover Fourier Transforms, something I'd found before but hadn't previously had the knowledge to fully understand. I decided to try to simulate what was going on behind the scenes, and came up with this *[Fourier-Transforms](https://tobiasloader.github.io/Fourier-Transforms)*.
 
-#### 6. GraFx
+#### 7. GraFx
 
 In Autumn 2018, I realised that although Desmos was great and I used it all the time, I sometimes would want greater freedom to graph specific functions and arithmetic/geometric series etc... So I came up with my own graphing calculator: *[GraFx](https://tobiasloader.github.io/GraFx)*.
