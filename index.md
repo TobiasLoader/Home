@@ -4,7 +4,7 @@ Here are my top six repositories up to date...
 
 #### 1. Neural-Network-P5
 
-I originally wrote a python supervised learning neural network over Christmas 2018, and converted *[it](https://tobiasloader.github.io/Neural-Network-P5)* to P5 to be able to include a UI from which the user could determine properties of the network, such as number of hidden layers and nodes per layer.
+I originally wrote a python supervised learning neural network over Winter 2018, and converted *[the network](https://tobiasloader.github.io/Neural-Network-P5)* to P5 in Spring 2019 to be able to include a UI from which the user could determine properties of the network, such as number of hidden layers and nodes per layer.
 
 #### 2. 3D-Engine
 
