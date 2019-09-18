@@ -1,7 +1,7 @@
 ## Here are some of my best repositories to date... 
 
 
-#### 1. **[Neural-Network-P5](https://tobiasloader.github.io/Neural-Network-P5)**
+#### 1. [Neural-Network-P5](https://tobiasloader.github.io/Neural-Network-P5)
 
 I originally wrote a python supervised learning neural network over Winter 2018, and converted *[the network to P5](https://tobiasloader.github.io/Neural-Network-P5)* in Spring 2019 to be able to include a UI from which the user could determine properties of the network, such as number of hidden layers and nodes per layer.
 
