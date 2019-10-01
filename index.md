@@ -1,4 +1,5 @@
-## Here are some of my best repositories to date... 
+
+## Finished Projects!
 
 
 #### [1. Neural-Network-P5](https://tobiasloader.github.io/Neural-Network-P5)
@@ -40,3 +41,17 @@ As I started Y13 in Summer/Autumn 2019, we began revisiting complex numbers and 
 #### [7. GraFx](https://tobiasloader.github.io/GraFx)
 
 In Autumn 2018, I realised that although Desmos was great and I used it all the time, I sometimes would want greater freedom to graph specific functions and arithmetic/geometric series etc... So I came up with my own graphing calculator: *[GraFx](https://tobiasloader.github.io/GraFx)*.
+
+
+## Projects In Progress... 
+
+
+#### [1. Flag-It-AI-Game](https://tobiasloader.github.io/Flag-It-AI-Game)
+
+Having written a supervised learning algorithm (see Neural-Network-P5 above), I wanted to also try out the reinforcement model. So I adapted a game I'd written a year or so prior (Flag It) to be played by an AI as it learns and improves. To write the reinforcement algorithm, I copied over what I'd produced for the supervised model and adjusted it such that the feedback into the back propagation was dependant upon the immediate surroundings of the player. Currently the AI preforms quite poorly despite starting out well. Once it learns to travel in a certain direction, it tends to travel that way more frequently - thus reinforcing its knowledge of moving in that direction, and creating a further bias for that direction. My next large goal for this project is to solve this issue such that it continues learning positively, without any one direction becoming overwhelming.
+
+---
+
+#### [2. Flag-It-AI-Game](https://tobiasloader.github.io/Flag-It-AI-Game)
+
+Having written a supervised learning algorithm (see Neural-Network-P5 above), I wanted to also try out the reinforcement model. So I adapted a game I'd written a year or so prior (Flag It) to be played by an AI as it learns and improves. To write the reinforcement algorithm, I copied over what I'd produced for the supervised model and adjusted it such that the feedback into the back propagation was dependant upon the immediate surroundings of the player. Currently the AI preforms quite poorly despite starting out well. Once it learns to travel in a certain direction, it tends to travel that way more frequently - thus reinforcing its knowledge of moving in that direction, and creating a further bias for that direction. My next large goal for this project is to solve this issue such that it continues learning positively, without any one direction becoming overwhelming.
