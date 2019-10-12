@@ -44,7 +44,7 @@ Having watched a YouTube video about the concept of the Dove-Hawk marketplace du
 
 #### [6. Fourier-Transforms](https://tobiasloader.github.io/Fourier-Transforms)
 
-As I started Y13 in Summer/Autumn 2019, we began revisiting complex numbers and Eulers form in further maths. This lead me to rediscover Fourier Transforms, something I'd been interseted in before but didn't previously have the knowledge to fully understand. I decided to try to simulate what was going on behind the scenes, and came up with this *[Fourier-Transforms](https://tobiasloader.github.io/Fourier-Transforms)*.
+In the autumn term of 2019, study of Euler's Formula and Roots of Unity broadened my understanding of complex numbers and led me to the story of the Fourier Transform. I found it fascinating how a seemingly chaotic function could be elegantly separated to reveal its constituent frequencies. I built this simulator to help me better understand the process through visual depiction of the transform.
 
 ---
 
