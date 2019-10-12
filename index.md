@@ -1,6 +1,6 @@
 ## Welcome!
 
-Clicking the numbered headings below will enable you to view and interact with each project in your browser. All are entirely my own work.
+Clicking the numbered headings below will enable you to view and interact with my CompSci projects in your browser. All are entirely my own work.
 
 
 ### Completed Projects:
