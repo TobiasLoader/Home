@@ -2,7 +2,7 @@
 
 Please click the numbered headings below to view and interact with my CompSci projects in your browser. 
 
-All work is entirely my own.
+All work is entirely my own and written in P5.js – either directly, or after conversion from Python.
 
 
 ### Completed Projects:
@@ -24,19 +24,19 @@ This was my first major project, written during the summer of 2018. At this stag
 
 #### [3. Ray-Tracer](https://tobiasloader.github.io/Ray-Tracer)
 
-Soon after finishing my 3D-Engine in Autumn 2018 – and being still interested in representing a 3D world on a 2D screen – I launched into yet another large project. I'd heard of these *[Ray Tracer's](https://tobiasloader.github.io/Ray-Tracer)* which drew more realistic images of a 3D scene using virtual light rays. So I set out to write my own!
+Soon after finishing my 3D-Engine in autumn 2018, and being still interested in representing a 3D world on a 2D screen, I began another large project. I'd heard about Ray Tracer's, which could draw realistic 3D images using virtual light rays, so set out to write my own.
 
 ---
 
 #### [4. Particle-Physics-Simulator](https://tobiasloader.github.io/Particle-Physics-Simulator)
 
-Inspired in a Particle Physics lesson in Spring 2019, I decided to *[simulate how (sub-atomic) particles](https://tobiasloader.github.io/Particle-Physics-Simulator)* interact with each other, making sure to keep track of the forces felt by each one. 
+Inspired by a lesson on particle physics in spring 2019, I decided to simulate how sub-atomic particles might interact with each other. My programme includes a real-time graphical display showing the force felt by each particle during motion.
 
 ---
 
 #### [5. Dove-Hawk-Marketplace](https://tobiasloader.github.io/Dove-Hawk-Marketplace)
 
-After having watched a Youtube video on the topic by Primer in Summer 2019, I wanted to simulate my own *[marketplace](https://tobiasloader.github.io/Dove-Hawk-Marketplace)* and have the freedom to play around for myself. This tied in nicely with previous work I'd done on modelling predators with differential equations on Desmos.
+Having watched a YouTube video about the concept of the Dove-Hawk marketplace during the summer of 2019 I was inspired to create my own simulator to help me explore the idea.  This tied in nicely with previous work I'd done on modelling predator-prey interactions with differential equations on the graphing calculator Desmos.com.
 
 ---
 
