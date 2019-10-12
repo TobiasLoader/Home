@@ -2,7 +2,7 @@
 
 Please click the numbered headings below to view and interact with my CompSci projects in your browser. 
 
-All work is my own.
+All work is entirely my own.
 
 
 ### Completed Projects:
