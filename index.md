@@ -1,12 +1,12 @@
 
-# Tobias Loader's GitHub Pages
+## Tobias Loader's GitHub Pages
 
 
-### Welcome! Please use the links below to view a selection of my CompSci projects in your browser:
-##### (My main GitHub profile page can be viewed here: [github.com/TobiasLoader](https://github.com/TobiasLoader))
+Welcome! Please use the links below to view a selection of my CompSci projects in your browser.
+(My main GitHub profile page can be viewed here: [github.com/TobiasLoader](https://github.com/TobiasLoader))
 
 
-## Completed Projects:
+### Completed Projects:
 
 
 #### [1. Neural-Network-P5](https://tobiasloader.github.io/Neural-Network-P5)
@@ -50,7 +50,7 @@ As I started Y13 in Summer/Autumn 2019, we began revisiting complex numbers and 
 In Autumn 2018, I realised that although Desmos was great and I used it all the time, I sometimes would want greater freedom to graph specific functions and arithmetic/geometric series etc... So I came up with my own graphing calculator: *[GraFx](https://tobiasloader.github.io/GraFx)*.
 
 
-## Projects In Progress... 
+### Projects In Progress 
 
 
 #### [1. Flag-It-AI-Game](https://tobiasloader.github.io/Flag-It-AI-Game)
