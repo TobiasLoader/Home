@@ -24,7 +24,7 @@ This was my first major project, written during the summer of 2018. At this stag
 
 #### [3. Ray-Tracer](https://tobiasloader.github.io/Ray-Tracer)
 
-Soon after finishing my 3D-Engine in autumn 2018, and being still interested in representing a 3D world on a 2D screen, I began another large project. I'd heard about Ray Tracer's, which could draw realistic 3D images using virtual light rays, so set out to write my own.
+Soon after finishing my 3D-Engine in autumn 2018, and still being interested in the representation of the 3D world on a 2D screen, I began another large project. I had heard about the ray tracing technique, which enabled realistic 3D images to be drawn using virtual light rays, so I set out to write my own basic implementation.
 
 ---
 
