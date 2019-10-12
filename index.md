@@ -12,13 +12,13 @@ All work is entirely my own.
 
 <ins>A note regarding my personal statement:</ins> the reinforcement learning neural network referenced in my personal statement is a continuation of the supervised version described here. To view the reinforcement version please scroll down to the ’Flag-It-AI-Game’, listed under 'Projects In Progress’.
 
-I originally wrote a python supervised learning neural network over Winter 2018, and converted *[the network to P5](https://tobiasloader.github.io/Neural-Network-P5)* in Spring 2019, as I wanted to be able to include a UI. The user can now determine certain properties of the network, such as the number of hidden layers and the number of nodes per layer.
+I produced my first neural network (supervised, deep) in Python during Christmas 2018. A few months later I converted it to P5.js in order to include a GUI, enabling the user to determine certain properties of the network, such as the number of hidden layers and the number of nodes per layer.
 
 ---
 
 #### [2. 3D-Engine](https://tobiasloader.github.io/3D-Engine)
 
-This *[3D Engine](https://tobiasloader.github.io/3D-Engine)* was my main summer 2018 project. At this stage of my education I'd only covered GCSE/FSMQ mathematics, and so didn't realise that much of what I'd been working on for the past few weeks and months could be done in a few simple matrice equations. Nevertheless I had a lot of fun writing the engine and I consider it my first major project, a piece of work of which I'm proud.
+This was my first major project, written during the summer of 2018. At this stage in my education I'd only covered GCSE and FSMQ level mathematics, so I didn't realise that much of what I'd been working on during those weeks could have been done far more efficiently with a few simple matrix equations... Nevertheless I had a lot of fun writing it and am quite proud of the end result.
 
 ---
 
