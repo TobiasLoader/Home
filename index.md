@@ -1,6 +1,8 @@
 ## Welcome!
 
-The linked headings below will enable you to view a selection of my CompSci projects in your browser:
+Clicking the numbered headings below will enable you to view and interact with each project in your browser.
+
+All projects are entirely my own work.
 
 
 ### Completed Projects:
