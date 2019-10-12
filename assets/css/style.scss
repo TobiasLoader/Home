@@ -3,12 +3,6 @@
 
 @import "{{ site.theme }}";
 
-
-.project-tagline {margin-bottom:3rem;}
-.btn {font-size:13px; padding:0.50rem 0.75rem;}
-
-.site-footer-owner {font-weight:normal;}
-
 @media screen and (min-width: 64em)
  .project-tagline {
      font-size: 1.45rem;
@@ -26,3 +20,11 @@
      font-size: 1.15rem;
  }
  }
+
+.project-tagline {margin-bottom:3rem;}
+
+.btn {font-size:13px; padding:0.50rem 0.75rem;}
+
+.site-footer-owner {font-weight:normal;}
+
+
