@@ -4,7 +4,7 @@
 
 Welcome! Please use the links below to view a selection of my CompSci projects in your browser.
 
-[NB. My main GitHub profile page is here: [github.com/TobiasLoader](https://github.com/TobiasLoader)]
+[My main GitHub profile page can be viewed here: [github.com/TobiasLoader](https://github.com/TobiasLoader)]
 
 
 ### Completed Projects:
