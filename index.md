@@ -14,7 +14,7 @@ The linked headings below will enable you to view a selection of my CompSci proj
 
 #### [1. Neural-Network-P5](https://tobiasloader.github.io/Neural-Network-P5)
 
-NB: As referenced in my Personal Statement, please scroll down to view 'Flag-It-AI-Game' below under 'Projects in Progress', which is the reinforcement learning continuation of this project.
+NB: As referenced in my personal statement, please scroll down to view 'Flag-It-AI-Game' below under 'Projects in Progress', which is the reinforcement learning continuation of this project.
 
 I originally wrote a python supervised learning neural network over Winter 2018, and converted *[the network to P5](https://tobiasloader.github.io/Neural-Network-P5)* in Spring 2019, as I wanted to be able to include a UI. The user can now determine certain properties of the network, such as the number of hidden layers and the number of nodes per layer.
 
