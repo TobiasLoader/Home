@@ -12,7 +12,7 @@ The linked headings below will enable you to view a selection of my CompSci proj
 ### Completed Projects:
 
 
-#### [1. Neural-Network-P5](https://tobiasloader.github.io/Neural-Network-P5)
+#### [1. Supervised-Deep-Neural-Network](https://tobiasloader.github.io/Supervised-Deep-Neural-Network)
 
 N.B. re my personal statement: the reinforcement learning neural network referenced in my personal statement is a continuation of the supervised version described here. To view the reinforcement version please scroll down to the ’Flag-It-AI-Game’, listed under 'Projects in Progress’.
 
