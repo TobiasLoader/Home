@@ -2,8 +2,6 @@
 
 The linked headings below will enable you to view a selection of my CompSci projects in your browser:
 
-[My main GitHub profile page can be viewed here: [github.com/TobiasLoader](https://github.com/TobiasLoader)]
-
 
 ### Completed Projects:
 
