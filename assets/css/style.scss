@@ -3,23 +3,7 @@
 
 @import "{{ site.theme }}";
 
-@media screen and (min-width: 64em)
- .project-tagline {
-     font-size: 1.45rem;
- }
- }
 
- @media screen and (max-width: 64em) and (min-width: 42em)
- .project-tagline {
-     font-size: 1.25rem;
- }
- }
-
- @media screen and (max-width: 42em)
- .project-tagline {
-     font-size: 1.15rem;
- }
- }
 
 .project-tagline {margin-bottom:3rem;}
 
