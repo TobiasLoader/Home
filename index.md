@@ -1,6 +1,6 @@
 ## Welcome!
 
-Please click the numbered headings below to view and interact with my CompSci projects in your browser. 
+Please click the numbered headings below to view some of my CompSci projects in your browser. 
 
 Each project is written in P5.js, although some were originally written in Python and subsequently converted to P5.
 
