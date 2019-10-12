@@ -10,7 +10,7 @@ All work is entirely my own.
 
 #### [1. Supervised-Deep-Neural-Network](https://tobiasloader.github.io/Supervised-Deep-Neural-Network)
 
-<ins>Personal statement note:</ins> the reinforcement learning neural network referenced in my personal statement is a continuation of the supervised version described here. To view the reinforcement version please scroll down to the ’Flag-It-AI-Game’, listed under 'Projects In Progress’.
+<ins>A note regarding my personal statement:</ins> the reinforcement learning neural network referenced in my personal statement is a continuation of the supervised version described here. To view the reinforcement version please scroll down to the ’Flag-It-AI-Game’, listed under 'Projects In Progress’.
 
 I originally wrote a python supervised learning neural network over Winter 2018, and converted *[the network to P5](https://tobiasloader.github.io/Neural-Network-P5)* in Spring 2019, as I wanted to be able to include a UI. The user can now determine certain properties of the network, such as the number of hidden layers and the number of nodes per layer.
 
