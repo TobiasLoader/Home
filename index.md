@@ -1,5 +1,12 @@
 
-## Finished Projects!
+# Tobias Loader's GitHub Pages
+
+
+## Welcome! Please use the links below to view a selection of my CompSci projects in your browser:
+###### My main GitHub profile page can be viewed here: [github.com/TobiasLoader](https://github.com/TobiasLoader).
+
+
+## Completed Projects:
 
 
 #### [1. Neural-Network-P5](https://tobiasloader.github.io/Neural-Network-P5)
