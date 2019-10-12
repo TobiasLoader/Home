@@ -1,8 +1,4 @@
-
-## Tobias Loader's GitHub Pages
-
-
-Welcome! 
+## Welcome! 
 
 The linked headings below will enable you to view a selection of my CompSci projects in your browser:
 
