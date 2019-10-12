@@ -2,7 +2,9 @@
 
 Please click the numbered headings below to view and interact with my CompSci projects in your browser. 
 
-All work is entirely my own and written in P5.js – either directly, or after conversion from Python.
+Each project is written in P5.js (some were originally written in Python and subsequently converted to P5).
+
+All projects are entirely my own work.
 
 
 ### Completed Projects:
