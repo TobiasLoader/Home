@@ -44,13 +44,13 @@ Having watched a YouTube video about the concept of the Dove-Hawk marketplace du
 
 #### [6. Fourier-Transforms](https://tobiasloader.github.io/Fourier-Transforms)
 
-In the autumn term of 2019, study of Euler's Formula and Roots of Unity broadened my understanding of complex numbers and led me to the story of the Fourier Transform. I found it fascinating how a seemingly chaotic function could be elegantly separated to reveal its constituent frequencies. I built this simulator to help me better understand the process through visual depiction of the transform.
+In the autumn term of 2019, study of Euler's Formula and Roots of Unity broadened my understanding of complex numbers and led me to the story of the Fourier Transform. I found it fascinating how a seemingly chaotic function could be elegantly separated to reveal its constituent frequencies. I built this graphical simulator to help me better understand the transform process.
 
 ---
 
 #### [7. GraFx](https://tobiasloader.github.io/GraFx)
 
-In Autumn 2018, I realised that although Desmos was great and I used it all the time, I sometimes would want greater freedom to graph specific functions and arithmetic/geometric series etc... So I came up with my own graphing calculator: *[GraFx](https://tobiasloader.github.io/GraFx)*.
+Although I use Desmos.com frequently and think it is an amazing resource, I have sometimes wanted the ability to plot various graphs for which Desmos offers limited functionality; such as arithmetic and geometric progressions. So, in autumn 2018 I wrote my own personal graphing calculator, GraFx, to solve this issue. Whilst GraFx is able to plot basic polynomials through its online interface, it was designed to respond to directly inputted source code and is therefore most suitable for local use. Its user can write their own functions, exactly as required – providing more freedom than Desmos allows, e.g. if I wished to plot complex numbers on an Argand diagram I could adapt the GraFx's source code to achieve this.
 
 
 ### Projects In Progress 
