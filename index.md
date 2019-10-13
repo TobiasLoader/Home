@@ -74,4 +74,4 @@ After some reading in early autumn 2019, I revisited my [Basic Ray Tracer](#3-ba
 
 There remain some display issues to solve, such as black lines that can appear on the rendered image, which I am considering solving temporarily by writing a clean up function that will fill these artificially. 
 
-Additionally, whilst I intend to incorporate directional light sources, currently the project only makes use of ambient light. This means that the scene renders are quite dark, requiring that the GUI camera be placed very near the scene objects in order to clearly view them in these low light conditions once rendered.
+Additionally, whilst I intend to incorporate directional light sources, currently the project only makes use of ambient light. This means that the scene renders are quite dark, requiring that the GUI camera be placed very near the scene objects in order to clearly view them in these low light conditions once rendered. I also intend to add the ability for light to be reflected off the 3D spheres, and am currently working on the associated maths and how best to implement this.
