@@ -38,7 +38,7 @@ Inspired by a lesson on particle physics in spring 2019, I decided to simulate h
 
 #### [5. Hawk-Dove Game Theory Simulation](https://tobiasloader.github.io/Hawk-Dove-GameTheory-Simulation)
 
-Having watched a YouTube video about the concept of the Hawk-Dove game theory during the summer of 2019 I was inspired to create my own simulator to help me explore the idea.  This tied in nicely with previous work I'd done on modelling predator-prey interactions with differential equations on the graphing calculator Desmos.com.
+Having watched a YouTube video about the concept of the Hawk-Dove model of game theory during the summer of 2019 I was inspired to create my own simulator to help me explore the idea.  This tied in nicely with previous work I'd done on modelling predator-prey interactions with differential equations on the graphing calculator Desmos.com.
 
 ---
 
