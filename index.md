@@ -24,7 +24,7 @@ This was my first major project, written during the summer of 2018. At this stag
 
 ---
 
-#### [3. Basic Ray Tracer V1](https://tobiasloader.github.io/Basic-Ray-Tracer-V1)
+#### [3. Basic Ray Tracer 1](https://tobiasloader.github.io/Basic-Ray-Tracer-1)
 
 Soon after finishing my 3D-Engine in autumn 2018, and still being interested in the representation of the 3D world on a 2D screen, I began another large project. I had heard about the ray tracing technique, which enabled realistic 3D images to be drawn using virtual light rays, so I set out to write my own basic implementation.
 
@@ -68,9 +68,9 @@ My next major goal for this project is to solve this issue so that it continues 
 
 ---
 
-#### [2. Basic Ray Tracer V2](https://tobiasloader.github.io/Basic-Ray-Tracer-V2)
+#### [2. Basic Ray Tracer 2](https://tobiasloader.github.io/Basic-Ray-Tracer-2)
 
-After some reading in early autumn 2019, I revisited my [Basic Ray Tracer](#3-basic-ray-tracer-v1) with the aim of improving it. I devised a new algorithm for rapidly zeroing in on the edge of on object, approximately halving the edge position uncertainty during each iteration, which encouraged me to produce a new version of the ray tracer. In addition to incorporating the new algorithm, this version also included a new GUI feature. This consisted of a selectable birds-eye view of the scene prior to rendering, enabling the user to decide exactly where to place the camera – including its angle of horizontal rotation, so that their eventual scene render would be completely customised.
+After some reading in early autumn 2019, I revisited my [Basic Ray Tracer](#3-basic-ray-tracer-1) and ended up completely rewriting it. It incorporates a new algorithm for rapidly zeroing in on the edge of an object – approximately halving the edge position uncertainty during each iteration. And additionally includes a new GUI feature consisting of a selectable birds-eye view of the scene prior to rendering. This enables the user to decide exactly where to place the camera, including its angle of horizontal rotation, so that their eventual scene render will be completely customised.
 
 There remain some display issues to solve, such as black lines that can appear on the rendered image, which I am considering solving temporarily by writing a clean up function that will fill these artificially. 
 
