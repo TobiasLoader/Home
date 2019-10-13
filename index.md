@@ -12,7 +12,7 @@ All projects are entirely my own work.
 
 #### [1. Supervised-Deep-Neural-Network](https://tobiasloader.github.io/Supervised-Deep-Neural-Network)
 
-<ins>A note regarding my personal statement:</ins> the reinforcement learning neural network referenced in my personal statement is a continuation of the supervised version described here. To view the reinforcement version please scroll down to the ’Flag-It-AI-Game’, listed under 'Projects In Progress’.
+<ins>A note regarding my personal statement:</ins> the reinforcement learning neural network referenced in my personal statement is a continuation of the supervised version described here. To view the reinforcement version please scroll down to the ’Training-A-Reinforcement-Neural-Network’, listed under 'Projects In Progress’.
 
 I produced my first neural network (supervised, deep) in Python during Christmas 2018. A few months later I converted it to P5.js in order to include a GUI, enabling the user to choose certain properties of the network, such as the number of hidden layers and the number of nodes per layer.
 
@@ -56,7 +56,7 @@ Although I use Desmos.com frequently and think it is an amazing resource, I have
 ### Projects In Progress 
 
 
-#### [1. Flag-It-AI-Game](https://tobiasloader.github.io/Flag-It-AI-Game)
+#### [1. Training-A-Reinforcement-Neural-Network](https://tobiasloader.github.io/Training-A-Reinforcement-Neural-Network)
 
 Having written a supervised learning algorithm (see Neural-Network-P5 above), I wanted to also try out the reinforcement model. So during the summer I adapted a game I'd written a year or so prior (Flag It) to be played by an AI as it learns and improves. To write the reinforcement algorithm, I copied over what I'd produced for the supervised model and adjusted it such that the feedback into the back propagation was dependant upon the immediate surroundings of the player. Currently the AI preforms quite poorly despite starting out well. Once it learns to travel in a certain direction, it tends to travel that way more frequently - thus reinforcing its knowledge of moving in that direction, and creating a further bias for that direction. My next large goal for this project is to solve this issue such that it continues learning positively, without any one direction becoming overwhelming.
 
