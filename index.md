@@ -10,7 +10,7 @@ All projects are entirely my own work.
 ### Completed Projects:
 
 
-#### [1. Supervised-Deep-Neural-Network](https://tobiasloader.github.io/Supervised-Deep-Neural-Network)
+#### [1. Supervised Deep Neural Network](https://tobiasloader.github.io/Supervised-Deep-Neural-Network)
 
 <ins>A note regarding my personal statement:</ins> the reinforcement learning neural network referenced in my personal statement is a continuation of this supervised deep neural network, and can be found [here](#1-training-a-reinforcement-neural-network) under the 'Projects In Progress’ section.
  
