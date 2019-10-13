@@ -14,7 +14,7 @@ All projects are entirely my own work.
 
 <ins>A note regarding my personal statement:</ins> the reinforcement learning neural network referenced in my personal statement (which is viewable [below](#1-training-a-reinforcement-neural-network) under the 'Projects In Progress’ section), is a continuation of the supervised deep neural network described here:
  
-This was my first neural network algorithm, which I initially wrote in Python during Christmas of 2018. A few months later I converted it to P5.js in order to include a GUI, enabling the user to choose certain properties of the network, such as the number of hidden layers and the number of nodes per layer.
+This was my first neural network algorithm, which I initially wrote in Python during Christmas of 2018. A few months later I converted it to P5.js in order to include a GUI – enabling the user to easily choose certain properties of the network, such as the number of hidden layers and the number of nodes per layer.
 
 ---
 
