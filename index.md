@@ -42,7 +42,7 @@ Having watched a YouTube video about the concept of the Dove-Hawk game theory du
 
 ---
 
-#### [6. Fourier-Transforms](https://tobiasloader.github.io/Fourier-Transforms)
+#### [6. Fourier-Transform-Simulator](https://tobiasloader.github.io/Fourier-Transform-Simulator)
 
 In the autumn term of 2019, study of Euler's Formula and Roots of Unity broadened my understanding of complex numbers and led me to the story of the Fourier Transform. I found it fascinating how a seemingly chaotic function could be elegantly separated to reveal its constituent frequencies. I built this graphical simulator to help me better understand the transform process.
 
