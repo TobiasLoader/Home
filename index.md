@@ -68,7 +68,7 @@ My next major goal for this project is to solve this issue so that it continues 
 
 ---
 
-#### [2. Basic-Ray-Tracer-V2](https://tobiasloader.github.io/Basic-Ray-Tracer-V2)
+#### [2. Basic Ray Tracer V2](https://tobiasloader.github.io/Basic-Ray-Tracer-V2)
 
 After some reading in early autumn 2019, I revisited my [Basic Ray Tracer](#3-ray-tracer) with the aim of improving it. I devised a new algorithm for rapidly zeroing in on the edge of on object, approximately halving the edge position uncertainty during each iteration, which encouraged me to produce a new version of the ray tracer. In addition to incorporating the new algorithm, this version also included a new GUI feature. This consisted of a selectable birds-eye view of the scene prior to rendering, enabling the user to decide exactly where to place the camera – including its angle of horizontal rotation, so that their eventual scene render would be completely customised.
 
