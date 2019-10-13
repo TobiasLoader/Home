@@ -58,7 +58,7 @@ Although I frequently use the online graphing calculator [Desmos](https://www.de
 
 #### [1. Training A Reinforcement Neural Network](https://tobiasloader.github.io/Training-A-Reinforcement-Neural-Network)
 
-This project is a continuation of the above [supervised neural network](#1-supervised-deep-neural-network). 
+This project is a continuation of my [supervised neural network](#1-supervised-deep-neural-network). 
 
 In May 2019 I attended a lecture on machine learning by Prof V Kanade and was inspired to adapt my supervised neural network algorithm to the reinforcement learning model. I decided to utilise a simple arcade game that I had designed previously, called 'Flag It', in order to train the network and develop its intelligence. An important stage in this process involved re-writing the reward function of my supervised learning algorithm, such that data feeding into the back propagation would be dependant upon the immediate surroundings of the game player.
 
