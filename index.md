@@ -36,9 +36,9 @@ Inspired by a lesson on particle physics in spring 2019, I decided to simulate h
 
 ---
 
-#### [5. Dove-Hawk-Marketplace](https://tobiasloader.github.io/Dove-Hawk-Marketplace)
+#### [5. Dove-Hawk-GameTheory-Simulation](https://tobiasloader.github.io/Dove-Hawk-GameTheory-Simulation)
 
-Having watched a YouTube video about the concept of the Dove-Hawk marketplace during the summer of 2019 I was inspired to create my own simulator to help me explore the idea.  This tied in nicely with previous work I'd done on modelling predator-prey interactions with differential equations on the graphing calculator Desmos.com.
+Having watched a YouTube video about the concept of the Dove-Hawk game theory during the summer of 2019 I was inspired to create my own simulator to help me explore the idea.  This tied in nicely with previous work I'd done on modelling predator-prey interactions with differential equations on the graphing calculator Desmos.com.
 
 ---
 
