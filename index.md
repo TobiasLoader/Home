@@ -58,7 +58,13 @@ Although I frequently use the online graphing calculator [Desmos](https://www.de
 
 #### [1. Training A Reinforcement Neural Network](https://tobiasloader.github.io/Training-A-Reinforcement-Neural-Network)
 
-Having written the [above](#1-supervised-deep-neural-network) supervised learning algorithm, I wanted to also try out the reinforcement model. So during the summer I adapted a game I'd written a year or so prior (Flag It) to be played by an AI as it learns and improves. To write the reinforcement algorithm, I copied over what I'd produced for the supervised model and adjusted it such that the feedback into the back propagation was dependant upon the immediate surroundings of the player. Currently the AI preforms quite poorly despite starting out well. Once it learns to travel in a certain direction, it tends to travel that way more frequently - thus reinforcing its knowledge of moving in that direction, and creating a further bias for that direction. My next large goal for this project is to solve this issue such that it continues learning positively, without any one direction becoming overwhelming.
+This project is a continuation of the above [supervised neural network](#1-supervised-deep-neural-network). 
+
+In May 2019 I attended a lecture on machine learning by Prof V Kanade and was inspired to adapt the algorithm to the reinforcement learning model. I decided to utilise a simple arcade game that I had designed previously, called 'Flag It', in order to train the network and thus develop its intelligence. An important stage in this process involved re-writing the reward function of my supervised learning algorithm, such that data feeding into the back propagation would be dependant upon the immediate surroundings of the game player.
+
+Currently the AI performs well initially but then its performance deteriorates. Once it has learned to travel in a particular direction, it tends to travel that way more frequently - reinforcing its knowledge of moving in that direction and creating a further bias for that direction... 
+
+My next major goal for this project is to solve this issue so that it continues to learn positively, without any single direction being overwhelmingly reinforced.
 
 ---
 
