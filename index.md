@@ -12,7 +12,7 @@ All projects are entirely my own work.
 
 #### [1. Supervised Deep Neural Network](https://tobiasloader.github.io/Supervised-Deep-Neural-Network)
 
-<ins>A note regarding my personal statement:</ins> the reinforcement learning neural network referred to in my personal statement, which is listed [here](#1-training-a-reinforcement-neural-network) under the 'Projects In Progress’ section, is a continuation of the supervised deep neural network described immediately below:
+<ins>Note:</ins> the [reinforcement learning neural network](#1-training-a-reinforcement-neural-network) that I referred to in my personal statement, is described below in the 'Projects In Progress’ section, and is a continuation of the supervised deep neural network described here:
  
 This was my first neural network algorithm, which I initially wrote in Python during Christmas of 2018. A few months later I converted it to P5.js in order to include a GUI – enabling the user to easily choose certain properties of the network, such as the number of hidden layers and the number of nodes per layer.
 
@@ -70,9 +70,7 @@ This project is a continuation of my [supervised neural network](#1-supervised-d
 
 In May 2019 I attended a lecture on machine learning by Prof V Kanade and was inspired to adapt my supervised neural network algorithm to the reinforcement learning model. I decided to utilise a simple arcade game that I had designed some time ago, called 'Flag Run', in order to train the network and develop its intelligence. An important stage in this process involved re-writing the reward function of my supervised learning algorithm, such that data feeding into the back propagation would be dependant upon the immediate surroundings of the game player.
 
-Currently the AI performs well initially but then its performance deteriorates: once it has learned to travel in a particular direction, it tends to travel that way more frequently - reinforcing its knowledge of moving in that direction and creating a further bias for that direction... 
-
-My next major goal for this project is to solve this issue so that it continues to learn positively, without any single direction being overwhelmingly reinforced.
+Currently the AI performs well initially but then deteriorates: once it has learned to travel in a particular direction, it tends to travel that way more frequently - reinforcing its knowledge of moving in that direction and creating a further bias for that direction...  My next major goal for this project is to solve this issue so that it continues to learn positively, without any single direction being overwhelmingly reinforced.
 
 ---
 
