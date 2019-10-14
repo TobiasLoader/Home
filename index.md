@@ -16,7 +16,7 @@ This was my first neural network algorithm, which I initially wrote in Python du
 
 The task I have set the network is relatively trivial: it is to learn to recognise the highest number from a list of random numbers between -1 and 1. N.B. The number of numerical inputs needs to be equal to the number of nodes in the input layer.
 
-NB: I referred to a continuation of this project in my personal statement – the [reinforcement learning neural network](#1-training-a-reinforcement-neural-network), which is described below in the 'Projects In Progress’ section. 
+NB: I referred to a continuation of this project in my personal statement, namely a [reinforcement learning neural network](#1-training-a-reinforcement-neural-network), which is described below in the 'Projects In Progress’ section. 
 
 ---
 
