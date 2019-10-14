@@ -44,7 +44,7 @@ Having watched a YouTube video about the concept of the Hawk-Dove model of game 
 
 #### [6. Fourier Transform Simulator](https://tobiasloader.github.io/Fourier-Transform-Simulator)
 
-In the autumn term of 2019, study of Euler's Formula and Roots of Unity broadened my understanding of complex numbers and led me to the story of the Fourier Transform. I found it fascinating how a seemingly chaotic function could be elegantly separated to reveal its constituent frequencies. I built this graphical simulator to help me better understand the transform process.
+In the autumn term of 2019, study of Euler's Formula and Roots of Unity broadened my understanding of complex numbers and led me to the story of the Fourier Transform. I found it fascinating how a seemingly chaotic function could be elegantly separated to reveal its constituent frequencies. I built this graphical simulator (with inspiration from a 3Blue1Brown video), to help me better understand the transform process.
 
 ---
 
