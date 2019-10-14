@@ -16,6 +16,8 @@ All projects are entirely my own work.
  
 This was my first neural network algorithm, which I initially wrote in Python during Christmas of 2018. A few months later I converted it to P5.js in order to include a GUI – enabling the user to easily choose certain properties of the network, such as the number of hidden layers and the number of nodes per layer.
 
+The task I have set the network is relatively trivial: it is to learn to recognise the highest number from a list of random numbers between -1 and 1. N.B. The number of numerical inputs needs to be equal to the number of nodes in the input layer.
+
 ---
 
 #### [2. 3D Engine](https://tobiasloader.github.io/3D-Engine)
