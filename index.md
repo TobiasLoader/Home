@@ -12,11 +12,11 @@ All projects are entirely my own work.
 
 #### [1. Supervised Deep Neural Network](https://tobiasloader.github.io/Supervised-Deep-Neural-Network)
 
-NB: the [reinforcement learning neural network](#1-training-a-reinforcement-neural-network) that I referred to in my personal statement is described below in the 'Projects In Progress’ section. It is a continuation of the supervised deep neural network described here:
- 
 This was my first neural network algorithm, which I initially wrote in Python during Christmas of 2018. A few months later I converted it to P5.js in order to include a GUI – enabling the user to easily choose certain properties of the network, such as the number of hidden layers and the number of nodes per layer.
 
 The task I have set the network is relatively trivial: it is to learn to recognise the highest number from a list of random numbers between -1 and 1. N.B. The number of numerical inputs needs to be equal to the number of nodes in the input layer.
+
+NB: I referred to a continuation of this project in my personal statement – the [reinforcement learning neural network](#1-training-a-reinforcement-neural-network), which is described below in the 'Projects In Progress’ section. 
 
 ---
 
