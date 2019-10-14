@@ -12,7 +12,7 @@ All projects are entirely my own work.
 
 #### [1. Supervised Deep Neural Network](https://tobiasloader.github.io/Supervised-Deep-Neural-Network)
 
-Note: the [reinforcement learning neural network](#1-training-a-reinforcement-neural-network) that I referred to in my personal statement, is described below in the 'Projects In Progress’ section, and is a continuation of the supervised deep neural network described here:
+NB: the [reinforcement learning neural network](#1-training-a-reinforcement-neural-network) that I referred to in my personal statement, is described below in the 'Projects In Progress’ section. It is a continuation of the supervised deep neural network described here:
  
 This was my first neural network algorithm, which I initially wrote in Python during Christmas of 2018. A few months later I converted it to P5.js in order to include a GUI – enabling the user to easily choose certain properties of the network, such as the number of hidden layers and the number of nodes per layer.
 
