@@ -38,8 +38,6 @@ Inspired by a lesson on particle physics in spring 2019, I decided to simulate h
 
 #### [5. Hawk-Dove Game Simulation](https://tobiasloader.github.io/Hawk-Dove-Game-Simulation)
 
-Populations of Hawks and Doves compete for food!
-
 Having watched a YouTube video about the concept of the Hawk-Dove model of game theory during the summer of 2019 I was inspired to create my own simulator to help me explore the idea. This tied in nicely with previous work I'd done on modelling predator-prey interactions with differential equations on the graphing calculator Desmos.com.
 
 This is a simulation of population changes over time across two competing species – Hawks and Doves. Each has different traits; Hawks are often aggressive, whilst Doves have a tendency to share. All Hawks and Doves search for food during each time step. There is a maximum of 500 pieces of food available for consumption by the populations during each time step. If a Hawk or Dove is the only one to find a piece of food, it gets to keep all of it. If however, another Hawk or Dove finds the same piece of food, they must share that piece according to specific rules (see gameTheory variable below). The total quantity  of food eaten by a given species determines the number of individuals of that species spawning in the subsequent time step.
