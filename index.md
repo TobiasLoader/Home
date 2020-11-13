@@ -2,9 +2,9 @@
 
 Please click the numbered headings below to view some of my CompSci projects in your browser. 
 
-Each project is written in P5.js, although some were originally written in Python.
+Each project is written in p5.js, although some were originally written in Python.
 
-All projects are entirely my own work.
+All projects are entirely my own work unless indicated otherwise.
 
 
 ### Completed Projects:
@@ -20,15 +20,15 @@ My first example scene is space themed and can be viewed [here](https://tobiaslo
 
 #### [2. Graphical Stock Exchange](https://tobiasloader.github.io/Graphical-Stock-Exchange/)
 
-The aim of this project was to create a graphical interface in the form of a web app for an open-source financial exchange simulation called [BSE](https://github.com/davecliff/BristolStockExchange) – a programme developed in 2012 by Prof Dave Cliff of Bristol University Computer Science Department. 
+The aim of this project was to create a graphical interface in the form of a web app for an open-source financial exchange simulation called [Bristol Stock Exchange](https://github.com/davecliff/BristolStockExchange) – a programme developed in 2012 by Prof Dave Cliff of Bristol University Computer Science Department. 
 
-Over a thousand lines of original Python were manually translated into P5.js to enable integration with a purpose built GUI featuring customisable input options and interactive animated graphs to display data output.
+Over a thousand lines of original Python were manually translated into p5.js to enable integration with a purpose built GUI featuring customisable input options and interactive animated graphs to display data output.
  
 ---
 
 #### [3. Supervised Deep Neural Network](https://tobiasloader.github.io/Supervised-Deep-Neural-Network)
 
-This was my first neural network algorithm, which I initially wrote in Python during Christmas of 2018. A few months later I converted it to P5.js in order to include a GUI – enabling the user to easily choose certain properties of the network, such as the number of hidden layers and the number of nodes per layer. The relatively trivial task I set the network was to learn to recognise the highest number from a list of random numbers between -1 and 1. In use, it is important that the number of numerical inputs into the nodes in the input layer is the same as the number of nodes in the output layer, i.e. a 1:1 mapping.
+This was my first neural network algorithm, which I initially wrote in Python during Christmas of 2018. A few months later I converted it to p5.js in order to include a GUI – enabling the user to easily choose certain properties of the network, such as the number of hidden layers and the number of nodes per layer. The relatively trivial task I set the network was to learn to recognise the highest number from a list of random numbers between -1 and 1. In use, it is important that the number of numerical inputs into the nodes in the input layer is the same as the number of nodes in the output layer, i.e. a 1:1 mapping.
 
 NB: I referred to a continuation of this project in my personal statement, namely the [reinforcement learning neural network](#1-training-a-reinforcement-neural-network) described below under the 'Projects In Progress’ section. 
 
