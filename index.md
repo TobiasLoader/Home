@@ -20,7 +20,7 @@ My first example scene is space themed and can be viewed [here](https://tobiaslo
 
 #### [2. Graphical Stock Exchange](https://tobiasloader.github.io/Graphical-Stock-Exchange/)
 
-The aim of this project was to create a graphical interface in the form of a web app for an open-source financial exchange simulation called [BSE](https://github.com/davecliff/BristolStockExchange) – a programme developed in 2012 by Prof D Cliff of Bristol University Computer Science Department. 
+The aim of this project was to create a graphical interface in the form of a web app for an open-source financial exchange simulation called [BSE](https://github.com/davecliff/BristolStockExchange) – a programme developed in 2012 by Prof Dave Cliff of Bristol University Computer Science Department. 
 
 Over a thousand lines of original Python were manually translated into P5.js to enable integration with a purpose built GUI featuring customisable input options and interactive animated graphs to display data output.
  
