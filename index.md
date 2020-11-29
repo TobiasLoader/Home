@@ -30,7 +30,7 @@ Over a thousand lines of original Python were manually translated into p5.js to 
 
 This was my first neural network algorithm, which I initially wrote in Python during Christmas of 2018. A few months later I converted it to p5.js in order to include a GUI – enabling the user to easily choose certain properties of the network, such as the number of hidden layers and the number of nodes per layer. The relatively trivial task I set the network was to learn to recognise the highest number from a list of random numbers between -1 and 1. In use, it is important that the number of numerical inputs into the nodes in the input layer is the same as the number of nodes in the output layer, i.e. a 1:1 mapping.
 
-NB: I referred to a continuation of this project in my personal statement, namely the [reinforcement learning neural network](#1-training-a-reinforcement-neural-network) described below under the 'Projects In Progress’ section. 
+NB: I referred to a continuation of this project in my personal statement, namely the [reinforcement learning neural network](#1-reinforcement-neural-network) described below under the 'Projects In Progress’ section. 
 
 ---
 
@@ -76,7 +76,7 @@ Although I frequently use the online graphing calculator [Desmos](https://www.de
 ### Projects Under Development
 
 
-#### [1. Training A Reinforcement Neural Network](https://tobiasloader.github.io/Training-A-Reinforcement-Neural-Network)
+#### [1. Reinforcement Neural Network](https://tobiasloader.github.io/Reinforcement-Neural-Network)
 
 This project is a continuation of the above [supervised neural network](#1-supervised-deep-neural-network). 
 
